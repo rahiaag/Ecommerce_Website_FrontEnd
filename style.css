@@ -299,7 +299,7 @@
 }
 
 #sm-banner .banner-box2 {
-  background-image: url("img/banner/b12.avif");
+  background-image: url("img/banner/b12.png");
 }
 
 
@@ -339,7 +339,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("img/banner/b13.avif");
+  background-image: url("img/banner/b13.png");
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -353,7 +353,7 @@
 }
 
 #banner3 .banner-box3 {
-  background-image: url("img/banner/b11.avif");
+  background-image: url("img/banner/b11.png");
 }
 
 #banner3 h2 {
